@@ -7,3 +7,6 @@ http://woowabros.github.io/
 
 ### 2. 당근마켓
 https://medium.com/daangn
+
+### 3. 센드버드
+https://blog.sendbird.com/ko/categories/engineering
