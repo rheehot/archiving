@@ -5,3 +5,8 @@
 노력하고 성장하는 모습에 동기부여가 많이 되는 것 같다.
 
 https://reoim.tistory.com/m/63
+
+### 2. 토비의 스프링 유튜브 채널
+유명한 스프링 교재로 알려져 있는 '토비의 스프링'의 저자의 유튜브 채널이다. 스프링 리액티브 프로그래밍 시리즈를 정독해볼 예정이다.
+
+https://www.youtube.com/channel/UCcqH2RV1-9ebRBhmN_uaSNg/videos
