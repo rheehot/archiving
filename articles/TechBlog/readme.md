@@ -13,3 +13,6 @@ https://blog.sendbird.com/ko/categories/engineering
 
 ### 4. Cheese10yun
 https://cheese10yun.github.io/
+
+### 5. 지그재그
+https://devblog.croquis.com/ko/
