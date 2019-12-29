@@ -8,3 +8,9 @@ Database
 
 #### URL
 https://blog.nahurst.com/visual-guide-to-nosql-systems
+
+## 2. dynamoDB 깊게 입문하기
+12월 프로젝트에서 dynamoDB를 사용해보고 있어 학습하던 중 쉽게 설명되어 있는 글을 찾았다.
+
+#### URL
+https://aerocode.net/298
