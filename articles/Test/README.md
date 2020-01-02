@@ -6,3 +6,9 @@ javascript testing의 best practice들을 모아놓은 글이다. production cod
 
 ### url
 https://github.com/goldbergyoni/javascript-testing-best-practices
+
+## 2. 당신들의 TDD가 실패하는 이유
+유닛테스트라는 것은 개발 과정에서 꼭 필요한 행위지만, 명확한 답이 정해져 있지 않고 언제나 한없이 좋은 테스트 코드를 짜기란 매우 어려운 것 같다. 아래 강연자료는 TDD가 어떤 방식으로 이루어져야 하는가에 대한 보다 구체적인 방법론을 제시해준다.
+
+### url
+https://www.slideshare.net/OKJSP/okkycon-tdd-120498731
