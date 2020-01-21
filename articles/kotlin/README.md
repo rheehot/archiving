@@ -4,3 +4,9 @@
 
 #### url
 https://jivimberg.io/blog/2019/02/23/sqs-consumer-using-kotlin-coroutines/
+
+### 2. Clean Architecture Example in Kotlin
+코틀린에서 클린 아키텍쳐를 구현하는 예제 글이다.
+
+#### url
+https://medium.com/hackernoon/clean-architecture-example-in-kotlin-9f23169219be
