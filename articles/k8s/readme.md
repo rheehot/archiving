@@ -5,3 +5,7 @@
 
 ### url
 https://blog.leocat.kr/notes/2019/08/22/translation-kubernetes-nodeport-vs-loadbalancer-vs-ingress
+
+
+## 02. spring cloud vs k8s
+https://dzone.com/articles/deploying-microservices-spring-cloud-vs-kubernetes
