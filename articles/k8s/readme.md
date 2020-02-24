@@ -7,5 +7,8 @@
 https://blog.leocat.kr/notes/2019/08/22/translation-kubernetes-nodeport-vs-loadbalancer-vs-ingress
 
 
-## 02. spring cloud vs k8s
+## 02. spring cloud vs k8s (2020.02.21)
+
+최근에는 spring cloud를 활용한 MSA 구축에 많은 관심을 갖고 있는데, spring cloud에서 제공하는 기능들이 k8s로도 다 구현되어 있는 것 같아 굳이 spring cloud가 필요한지 의문이 들었다. 그래서 이 둘을 자세히 비교해놓은 글을 찾아보던 중 아래 글을 발견했다.
+
 https://dzone.com/articles/deploying-microservices-spring-cloud-vs-kubernetes
