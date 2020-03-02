@@ -10,3 +10,9 @@ https://jivimberg.io/blog/2019/02/23/sqs-consumer-using-kotlin-coroutines/
 
 #### url
 https://medium.com/hackernoon/clean-architecture-example-in-kotlin-9f23169219be
+
+### 3. Java 예외(Exception) 처리에 대한 작은 생각
+exception은 효율적으로 처리하는 것이 어렵고, 또 중요함에도 불구하고 등한시해왔던 부분인 것 같다. checked exception과 unchecked exception을 각각 어떻게 처리해야 하는지 간략한 설명이 나와있는 글이다. 서비스 측면에서 더욱 완결성 있는 애플리케이션을 만들기 위해서는 예외 처리에 대해 좀 더 확실히 공부해놔야 할 것 같다.
+
+#### url
+http://www.nextree.co.kr/p3239/
