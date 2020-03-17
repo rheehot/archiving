@@ -15,3 +15,10 @@ react로 만든 어플리케이션을 도커라이징하고, CI/CD 환경을 어
 앱이어도 충분히 참고할 만한 글인 것 같다.
 
 https://medium.com/@jun097kim/react-%EC%95%B1-%EB%8F%84%EC%BB%A4%EB%9D%BC%EC%9D%B4%EC%A7%95%EA%B3%BC-ci-cd-a97046ac2403
+
+
+## CI/CD for Lambda Functions with Jenkins
+
+AWS lambda를 활용한 serverless applcation의 CI / CI pipeline을 jenkins를 통해 구축하는 방법을 소개한 글.
+
+https://read.acloud.guru/ci-cd-for-lambda-functions-with-jenkins-1c682a6c8d33
