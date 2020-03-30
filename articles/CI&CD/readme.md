@@ -22,3 +22,9 @@ https://medium.com/@jun097kim/react-%EC%95%B1-%EB%8F%84%EC%BB%A4%EB%9D%BC%EC%9D%
 AWS lambda를 활용한 serverless applcation의 CI / CI pipeline을 jenkins를 통해 구축하는 방법을 소개한 글.
 
 https://read.acloud.guru/ci-cd-for-lambda-functions-with-jenkins-1c682a6c8d33
+
+## 4. create-and-deploy-an-aws-lambda-function-with-aws-cloudformation
+
+IoC 툴 중 하나인 AWS cloudformation을 이용하여 AWS lambda function을 생성 및 배포하는 방법을 소개한 글.
+
+https://medium.com/@garry.passarella/create-and-deploy-an-aws-lambda-function-with-aws-cloudformation-583d5a2b1df0
